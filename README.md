@@ -20,7 +20,7 @@ After the command is run successfully you can run the app on real device or on e
 ### Sign up page is divided into 3 subpart a.Your Info b.Input Credential c.Cart Info
    
 
-### 4. After login merchant will redirected  to his profile where he can seethe description and images uploaded by him, 
+### 4. After login merchant will redirected  to his profile where he can see the description and images uploaded by him, 
 ### 5.Every merchant profile have a location button at the bottom, which will open Google maps and provide the location of the merchant , after this you can start navigation 
 ### 6. After starting navigation you can proceed to the destination.
 ### 7. We Also provide a app drawer, which appear on swip L to R, which provide option to Sign out of the app.
